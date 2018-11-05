@@ -5,7 +5,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 <p align="center">
 <a href="https://twitter.com/3raxton"><img src="https://img.shields.io/badge/Contact-@3raxton-blue.svg" alt="License">
 </a>
-<a><img src="https://img.shields.io/badge/job%20hunt-successful-brightgreen.svg" alt="Jobs Version"></a>
+<a><img src="https://img.shields.io/badge/Job%20Hunt-Successful-brightgreen.svg" alt="Jobs Version"></a>
 <a href="https://3raxton.github.io/license"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
 </a>
 
