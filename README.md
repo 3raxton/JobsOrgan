@@ -20,7 +20,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 ## How to use JobsOrgan
 
 1. Fork this repo
-2. Open your new jobs repo
+2. Open your forked repo
 3. Click on the ```Projects``` tab on the top of the repo <a href="https://github.com/3raxton/jobs/projects/1" target="_blank">or click here</a> and skip 
 4. Click on ```Jobs```
 5. Read the  ```How to use column```  (you can keep or delete it)
