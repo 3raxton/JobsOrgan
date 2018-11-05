@@ -22,7 +22,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 1. Fork this repo
 2. Open your forked repo in a new tab and follow the instructions below
 3. Click on the ```Projects``` tab on the top of the repo
-4. Click on ```Jobs```
+4. Click on ```Jobs``` in the ```Projects``` tab
 5. Read the  ```How to use column```  (you can keep or delete it)
 6. Add a few jobs that you want to stay up to date on and place them in the appropriate columns
 7. Edit the project in any way that you see fit
