@@ -19,7 +19,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 
 ## How to use JobsOrgan
 
-1. Fork this repo
+1. Fork this repo and open it in a new tab
 2. Open your forked repo
 3. Click on the ```Projects``` tab on the top of the repo
 4. Click on ```Jobs```
