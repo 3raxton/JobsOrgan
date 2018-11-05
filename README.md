@@ -13,14 +13,14 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 
 ## Summary
 - 🚨 Inspired by confusion and lack of organization searching for internships
-- 💾 Based on Kaban boards and commonly used job hunt tools
+- 🍁 Based on Kaban boards and commonly used job hunt tools
 - 🎉 Open source
 - 🔥 If you like JobsOrgan please consider <a href="https://www.patreon.com/3raxton" target="_blank"> supporting me on Patreon</a>
 
 ## How to use JobsOrgan
 
-1. Fork this repo and open it in a new tab
-2. Open your forked repo
+1. Fork this repo
+2. Open your forked repo in a new tab
 3. Click on the ```Projects``` tab on the top of the repo
 4. Click on ```Jobs```
 5. Read the  ```How to use column```  (you can keep or delete it)
